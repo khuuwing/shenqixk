@@ -1,2 +1,2 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"401","android_url":"http://app.jinhealthcare.org/7c_130.apk","other":",0,aHR0cHM6Ly9hcHAuYnNyeWcuY29tOjk5OTgsaHR0cHM6Ly9hcHAuYnNyeWcuY29tOjk5OTgsaHR0cHM6Ly9hcHAuYnNyeWcuY29tOjk5OTgsaHR0cHM6Ly9hcHAuYnNyeWcuY29tOjk5OTg=","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"401","android_url":"http://app.jinhealthcare.org/7c_130.apk","other":",0,IGh0dHBzOi8vYXBwLndhbmdmZW5mZW4uY29tLGh0dHBzOi8vbXJ4YXBwLnNxMjgubmV0Ojk5OTgsaHR0cHM6Ly9tbGthcHAuc3EyOC5uZXQsaHR0cHM6Ly9hcHAuc2hlbnFpMjgubmV0Ojk5OTg=","thirdLoginEnable":"0"}]}}
 
