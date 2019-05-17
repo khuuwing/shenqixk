@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"401","ios_url":"https:\/\/app.wangfenfen.com\/ios_update","applePlist_url":"https:\/\/gitee.com\/khuuwing\/shenqixk\/raw\/master\/ios.plist","other":",1,ICBodHRwOi8vYXBwLm15eWt0ZXN0LmNvbToyODgwLGh0dHA6Ly9hcHAubXl5a3Rlc3QuY29tOjI4ODA=","thirdLoginEnable":"0"}]}}
