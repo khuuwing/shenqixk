@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"401","android_url":"http:\/\/app.zgtzqcw.com\/sq_401a.apk","other":",1,ICBodHRwOi8vYXBwLm15eWt0ZXN0LmNvbToyODgwLGh0dHA6Ly9hcHAubXl5a3Rlc3QuY29tOjI4ODA=","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"411","android_url":"http:\/\/app.zgtzqcw.com\/sq_401a.apk","other":",1,ICBodHRwOi8vYXBwLm15eWt0ZXN0LmNvbToyODgwLGh0dHA6Ly9hcHAubXl5a3Rlc3QuY29tOjI4ODA=","thirdLoginEnable":"0"}]}}
