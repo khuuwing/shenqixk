@@ -1,2 +1,2 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"411","android_url":"http://app.jinhealthcare.org/shenqi/sq_411.apk","other":",0,aHR0cHM6Ly9tcnhhcHAuc3EyOC5uZXQ6OTk5OCxodHRwczovL21sa2FwcC5zcTI4Lm5ldCxodHRwczovL2FwcC5zaGVucWkyOC5uZXQ6OTk5OCxodHRwczovL2FwcC53YW5nZmVuZmVuLmNvbQ==","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"411","android_url":"http://app.jinhealthcare.org/shenqi/sq_411.apk","other":",0,aHR0cHM6Ly9tbGthcHAuc3EyOC5uZXQsaHR0cHM6Ly9tcnhhcHAuc3EyOC5uZXQ6OTk5OCxodHRwczovL2FwcC5zaGVucWkyOC5uZXQ6OTk5OCxodHRwczovL2FwcC53YW5nZmVuZmVuLmNvbQ==","thirdLoginEnable":"0"}]}}
 
